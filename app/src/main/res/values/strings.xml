@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coffee Shop Manager</string>
+    <string name="app_description">Приложение для управления кофейней</string>
+</resources>
