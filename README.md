@@ -27,7 +27,7 @@ Android application for automating sales and business processes at the "Coffee T
 
 📲 Installation
 1. Clone the repo:
-      git clone https://github.com/yourusername/coffee-teen.git
+      git clone https://github.com/AigulMiftahova/CoffeeApp
 2. Open in Android Studio.
 3. Add your Firebase google-services.json to the app/ folder.
 4. Build and run on a device/emulator with Android 8.0+.
